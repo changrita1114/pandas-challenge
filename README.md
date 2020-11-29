@@ -48,6 +48,6 @@ The final report includes each of the following:
 ### Three Conclusions:
 1. The male players represented the majority and spent the most money on items.
 2. Age group 20-24 had the highest purchase count and spent the most money on items.
-3. The top spender's SN is Lisosia93. He/she spent $18.96 buying 5 items. The most popular and profitable item is "Final Critic" with total purchase count 13 times and total revenue $59.99.
+3. The top spender's SN is Lisosia93. He/she spent $18.96 buying 5 items. The most popular and profitable item is "Final Critic" with total purchase count of 13 times and total revenue $59.99.
 ## Disclaimer
 The resources of this master branch are only for educational purposes. All reserved rights belong to UCSD Data Science and Visualization Boot Camp.
